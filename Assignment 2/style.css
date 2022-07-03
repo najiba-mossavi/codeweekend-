@@ -1,0 +1,39 @@
+body {
+    width: 50%;
+    text-align: center;
+    padding: 30px;
+    margin: auto;  
+}
+
+.profile {
+    border-color:black;
+    border-radius: 50%;
+    width: 200px; 
+    height: 200px;   
+}
+
+.heading {
+    color: darkblue;
+}
+
+header {
+    background-color: lightblue;
+    padding: 15px;
+    margin-bottom: 50px;
+} 
+
+header a{
+    padding-right: 15px;
+}
+    
+.post {
+    background-color: beige;
+    padding: 30px;
+    margin-bottom: 50px;
+}
+
+div img{
+    width:300px;
+
+
+}
